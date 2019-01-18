@@ -12,7 +12,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Library\\Client\\": "src/Client"
+            "Ford\\Escape\\": "src/Ford/Escape",
+            "Ford\\Fiesta\\": "src/Fiesta"
         }
     }
 
