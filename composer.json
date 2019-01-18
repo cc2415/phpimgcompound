@@ -12,8 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Ford\\Escape\\": "src/Ford/Escape",
-            "Ford\\Fiesta\\": "src/Fiesta"
+            "ImgCompound\\": "src/ImageCompound"
         }
     }
 
