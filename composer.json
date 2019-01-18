@@ -1,10 +1,19 @@
 {
-    "name": "img/compound",
+    "name": "php/imgcompound",
+    "description": "Image compound",
     "authors": [
         {
-            "name": "cc2415",
-            "email": "czc2415@qq.com"
+            "name": "cc2415"
         }
     ],
-    "require": {}
+    "license": "MIT",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "cc2415\\Push\\": "src/"
+        }
+    }
+
 }
