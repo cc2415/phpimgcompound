@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "cc2415\\Push\\": "src/"
+            "Library\\Client\\": "src/Client"
         }
     }
 
