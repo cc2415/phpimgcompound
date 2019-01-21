@@ -1,9 +1,10 @@
 {
-    "name": "czc/imgcompound",
+    "name": "imgcompound/imgcompound",
     "description": "Image compound",
     "authors": [
         {
-            "name": "cc2415"
+            "name": "cc2415",
+            "email":"czc2415@qq.com"
         }
     ],
     "license": "MIT",

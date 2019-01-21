@@ -10,9 +10,11 @@ require_once 'ImageCompound/Image/Ima.php';
 class ImageClient{
     public function clientinfo()
     {
-        echo 'class ImaageClient clientinfo ';
+        echo 'class ImaageClient clientinfo '."<br>";
         $f=new \ImageCompound\Image\Ima();
         $f->info();
-        mkdir('fdff', 7777);
+        if(!file_exists('fdff')) {
+            mkdir('fdff', 7777);
+        }
     }
 }

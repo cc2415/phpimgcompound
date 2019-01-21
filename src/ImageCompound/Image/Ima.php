@@ -10,6 +10,6 @@ namespace ImageCompound\Image;
 class Ima{
     public function info()
     {
-        echo 'class Ima info';
+        echo 'class Ima info'."<br>";
     }
 }
