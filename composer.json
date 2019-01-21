@@ -1,5 +1,5 @@
 {
-    "name": "imgcompound/imgcompound",
+    "name": "imagecompound/imagecompound",
     "description": "Image compound",
     "authors": [
         {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ImgCompound\\": "src/ImageCompound"
+            "ImageCompound\\": "src/ImageCompound"
         }
     }
 
